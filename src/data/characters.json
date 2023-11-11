@@ -1,41 +1,50 @@
 [{
 	"name":"Mario Bros",
 	"description":"Un petit plombier moustachu",
-	"imageUrl":"/mario.webp"
+	"imageUrl":"/mario.webp",
+	"grid":"RoundedImagesItemCard"
 },
 {
 	"name":"V",
 	"description":"La cybernétique au service de l'humain",
-	"imageUrl":"/v.webp"
+	"imageUrl":"/v.webp",
+	"grid":"RoundedImagesItemCard"
 },
 {
 	"name":"Pikachu",
 	"description":"Est-ce vraiment nécessaire de vous le présenter ?",
-	"imageUrl":"/pikachu.png"
+	"imageUrl":"/pikachu.png",
+	"grid":"BigItemCard"
+
 },
 {
 	"name":"Master Chief",
 	"description":"La peur incarnée des covenants",
-	"imageUrl":"halo.jpeg"
+	"imageUrl":"halo.jpeg",
+	"grid":"LongItemCard"
 },
 {
 	"name":"Ethan Winters",
 	"description":"L'homme malchanceux de Resident Evil",
-	"imageUrl":"ethan.jpeg"
+	"imageUrl":"ethan.jpeg",
+	"grid":"RoundedImagesItemCard"
 },
 {
 	"name":"Solid Snake",
 	"description":"L'agent secret contre Metal Gear",
-	"imageUrl":"solidSnake.webp"
+	"imageUrl":"solidSnake.webp",
+	"grid":"RoundedImagesItemCard"
 },
 {
 	"name":"Kratos",
 	"description":"Le papa contre les dieux qui voulait protéger son fils",
-	"imageUrl":"kratos.png"
+	"imageUrl":"kratos.png",
+	"grid":"RoundedImagesItemCard"
 },
 {
 	"name":"Aloy",
 	"description":"L'héroine à l'arc contre les mécas",
-	"imageUrl":"aloy.webp"
+	"imageUrl":"aloy.webp",
+	"grid":"RoundedImagesItemCard"
 }
 ]
